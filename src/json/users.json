@@ -1,0 +1,23 @@
+[
+    {
+        "Id" : 1,
+        "UserName" : "GorkemKarayel",
+        "FirstName" : "Gorkem",
+        "LastName" : "Karayel",
+        "Age" : 30
+    },
+    {
+        "Id" : 2,
+        "UserName" : "tolgaBolatcan",
+        "FirstName" : "Tolga",
+        "LastName" : "Bolatcan",
+        "Age" : 30  
+    },
+    {
+        "Id" : 3,
+        "UserName" : "OnurKorkmaz",
+        "FirstName" : "Onur",
+        "LastName" : "Korkmaz",
+        "Age" : 30 
+    }
+]

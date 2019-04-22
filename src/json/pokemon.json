@@ -1,0 +1,66 @@
+[
+    {
+        "Id" : 1,
+        "Name" : "Bulbasaur"
+    },
+    {
+        "Id" : 2,
+        "Name" : "Charmander"
+    },
+    {
+        "Id" : 3,
+        "Name" : "Squirtle"
+    },
+    {
+        "Id" : 4,
+        "Name" : "Caterpie"
+    },
+    {
+        "Id" : 5,
+        "Name" : "Weedle"
+    },
+    {
+        "Id" : 6,
+        "Name" : "Pidgey"
+    },
+    {
+        "Id" : 7,
+        "Name" : "Rattata"
+    },
+    {
+        "Id" : 8,
+        "Name" : "Spearow"
+    },
+    {
+        "Id" : 9,
+        "Name" : "Ekans"
+    },
+    {
+        "Id" : 10,
+        "Name" : "Pikachu"
+    },
+    {
+        "Id" : 11,
+        "Name" : "Sandshrew"
+    },
+    {
+        "Id" : 12,
+        "Name" : "Vulpix"
+    },
+    {
+        "Id" : 13,
+        "Name" : "Zubat"
+    },
+    {
+        "Id" : 14,
+        "Name" : "Venonat"
+    },
+    {
+        "Id" : 15,
+        "Name" : "Psyduck"
+    },
+    {
+        "Id" : 16,
+        "Name" : "Onix"
+    }
+]

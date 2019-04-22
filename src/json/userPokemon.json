@@ -1,0 +1,30 @@
+[
+    {
+        "UserId" : 1,
+        "PokemonId" : 1
+    },
+    {
+        "UserId" : 1,
+        "PokemonId" : 12
+    },
+    {
+        "UserId" : 1,
+        "PokemonId" : 14
+    },
+    {
+        "UserId" : 1,
+        "PokemonId" : 3
+    },
+    {
+        "UserId" : 2,
+        "PokemonId" : 2 
+    },
+    {
+        "UserId" : 2,
+        "PokemonId" : 2
+    },
+    {
+        "UserId" : 3,
+        "PokemonId" : 9
+    } 
+]
